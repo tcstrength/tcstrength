@@ -4,8 +4,9 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 
 # Techniques
 
+## Machine Learning
+- [AdaBoost](https://github.com/tcstrength/computer-science/blob/main/machine-learning/ada_boost.ipynb)
+
 ## Natural Language Processing
 
 - [TF-IDF](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/tf_idf.ipynb)
-
-
