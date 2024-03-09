@@ -8,5 +8,9 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 - [AdaBoost](https://github.com/tcstrength/computer-science/blob/main/machine-learning/ada_boost.ipynb)
 
 ## Natural Language Processing
-
 - [TF-IDF](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/tf_idf.ipynb)
+
+## Statistics
+- [Histogram](https://github.com/tcstrength/computer-science/blob/main/math-statistics/histogram_implementation.ipynb)
+- [LCG & Inverse Transform](https://github.com/tcstrength/computer-science/blob/main/math-statistics/lcg_inverse_transform.ipynb)
+- [Rejection Sampling](https://github.com/tcstrength/computer-science/blob/main/math-statistics/rejection_sampling.ipynb)
