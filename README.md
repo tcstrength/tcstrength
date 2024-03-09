@@ -6,6 +6,6 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 
 ## Natural Language Processing
 
-- [TF-IDF](!https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/1_tf_idf.ipynb)
+- [TF-IDF](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/1_tf_idf.ipynb)
 
 
