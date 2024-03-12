@@ -15,3 +15,4 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 - [Histogram](https://github.com/tcstrength/computer-science/blob/main/math-statistics/histogram_implementation.ipynb)
 - [LCG & Inverse Transform](https://github.com/tcstrength/computer-science/blob/main/math-statistics/lcg_inverse_transform.ipynb)
 - [Rejection Sampling](https://github.com/tcstrength/computer-science/blob/main/math-statistics/rejection_sampling.ipynb)
+- [Kernel Density Estimation](https://github.com/tcstrength/computer-science/blob/main/math-statistics/kernel_density_estimation.ipynb)
