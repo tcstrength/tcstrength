@@ -10,6 +10,7 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 
 ## Natural Language Processing
 - [TF-IDF](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/tf_idf.ipynb)
+- [Seq2Seq Transformer Pytorch](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/seq2seq.ipynb)
 
 ## Statistics
 - [Histogram](https://github.com/tcstrength/computer-science/blob/main/math-statistics/histogram_implementation.ipynb)
