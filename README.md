@@ -8,6 +8,8 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 - [AdaBoost](https://github.com/tcstrength/computer-science/blob/main/machine-learning/ada_boost.ipynb)
 - [Locality Sensitive Hashing](https://github.com/tcstrength/computer-science/blob/main/machine-learning/locality_sensitive_hashing.ipynb)
 - [Gaussian Naive Bayes](https://github.com/tcstrength/computer-science/blob/main/machine-learning/naive_bayes.ipynb)
+- [Hierachical Clustering](https://github.com/tcstrength/computer-science/blob/main/machine-learning/hierachical_clustering.ipynb)
+- [Multicollinearity](https://github.com/tcstrength/computer-science/blob/main/machine-learning/multicollinearity_effect.ipynb)
 
 ## Natural Language Processing
 - [TF-IDF](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/tf_idf.ipynb)
