@@ -1,6 +1,6 @@
 # About me
 
-With expertise in data engineering, data science, and a passion with AI, I am eager to learn skills to leverage data-driven insights to solve complex problems and drive business growth. With a strong background in building automation pipelines, and developing machine learning models, I am looking forward to working in big data and applying fancy techniques to solve real world problems.
+With expertise in data engineering, data science, and a passion with AI, I am eager to learn skills to leverage data-driven insights to solve complex problems and drive business growth. With a strong background in building automation pipelines, and developing machine learning models, I am looking forward to working with big data and applying fancy techniques to solve real-world problems.
 
 # Techniques
 
@@ -9,6 +9,7 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 - [Locality Sensitive Hashing](https://github.com/tcstrength/computer-science/blob/main/machine-learning/locality_sensitive_hashing.ipynb)
 - [Gaussian Naive Bayes](https://github.com/tcstrength/computer-science/blob/main/machine-learning/naive_bayes.ipynb)
 - [Hierachical Clustering](https://github.com/tcstrength/computer-science/blob/main/machine-learning/hierachical_clustering.ipynb)
+- [Self-organizing Map](https://github.com/tcstrength/computer-science/blob/main/machine-learning/self_organizing_map.ipynb)
 - [Multicollinearity](https://github.com/tcstrength/computer-science/blob/main/machine-learning/multicollinearity_effect.ipynb)
 
 ## Natural Language Processing
