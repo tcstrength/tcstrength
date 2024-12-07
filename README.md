@@ -13,6 +13,7 @@ With expertise in data engineering, data science, and a passion with AI, I am ea
 - [Hierachical Clustering](https://github.com/tcstrength/computer-science/blob/main/machine-learning/hierachical_clustering.ipynb)
 - [Self-organizing Map](https://github.com/tcstrength/computer-science/blob/main/machine-learning/self_organizing_map.ipynb)
 - [Multicollinearity](https://github.com/tcstrength/computer-science/blob/main/machine-learning/multicollinearity_effect.ipynb)
+- [LightFM - Pytorch Version](https://github.com/tcstrength/computer-science/blob/main/machine-learning/torchfm/src/torchfm/examples/lightfm_movielens.ipynb)
 
 ## Natural Language Processing
 - [TF-IDF](https://github.com/tcstrength/computer-science/blob/main/natural-language-processing/tf_idf.ipynb)
